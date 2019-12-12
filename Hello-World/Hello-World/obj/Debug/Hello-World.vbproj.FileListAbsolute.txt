@@ -1,0 +1,11 @@
+C:\Users\iserr\source\repos\Hello-World\Hello-World\bin\Debug\Hello-World.exe.config
+C:\Users\iserr\source\repos\Hello-World\Hello-World\bin\Debug\Hello-World.exe
+C:\Users\iserr\source\repos\Hello-World\Hello-World\bin\Debug\Hello-World.pdb
+C:\Users\iserr\source\repos\Hello-World\Hello-World\bin\Debug\Hello-World.xml
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello_World.Form1.resources
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello_World.Resources.resources
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello-World.vbproj.GenerateResource.cache
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello-World.vbproj.CoreCompileInputs.cache
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello-World.exe
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello-World.xml
+C:\Users\iserr\source\repos\Hello-World\Hello-World\obj\Debug\Hello-World.pdb
